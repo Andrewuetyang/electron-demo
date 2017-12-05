@@ -1,0 +1,20 @@
+{
+  "name": "tetris-desktop-demo",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "tetris",
+    "desktop",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Andrew <andrewuetyang@gmail.com>",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
