@@ -6,4 +6,5 @@ npm start
 
 # 简易打包方法
 1: npm install electron-packager -g
+
 2: electron-packager .
